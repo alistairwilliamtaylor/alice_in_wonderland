@@ -1,0 +1,11 @@
+.big {
+  font-size: 54px;
+  color: red;
+  font-weight: bold;
+}
+
+.small {
+  font-size: 6px;
+  color: blue;
+  font-style: italic;
+}
